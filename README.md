@@ -1,1 +1,0 @@
-# YOLOv2_Darkflow
